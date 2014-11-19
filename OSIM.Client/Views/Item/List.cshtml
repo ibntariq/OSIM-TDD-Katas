@@ -1,0 +1,14 @@
+﻿@model System.Collections.Generic.IEnumerable<OSIM.Common.Models.Item>
+
+@{
+    ViewBag.Title = "Item List";
+}
+
+<h2>List</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Name - @item.Quantity</li>
+    }
+</ul>

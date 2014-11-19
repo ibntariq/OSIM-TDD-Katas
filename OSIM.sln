@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.Tests", "OSIM.Tests\OSIM.Tests.csproj", "{D4B7A06E-EAA5-43E5-BF55-EFD1E5D74073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.Services", "OSIM.Services\OSIM.Services.csproj", "{DAF27E77-2CF6-4309-950A-D030CDBFC6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.Common", "OSIM.Common\OSIM.Common.csproj", "{60D72B50-4E72-4895-AF05-30064CCEF931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIM.Client", "OSIM.Client\OSIM.Client.csproj", "{799C4DFE-EDBC-48CF-9761-32526F911DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B7A06E-EAA5-43E5-BF55-EFD1E5D74073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B7A06E-EAA5-43E5-BF55-EFD1E5D74073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B7A06E-EAA5-43E5-BF55-EFD1E5D74073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B7A06E-EAA5-43E5-BF55-EFD1E5D74073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF27E77-2CF6-4309-950A-D030CDBFC6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF27E77-2CF6-4309-950A-D030CDBFC6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF27E77-2CF6-4309-950A-D030CDBFC6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF27E77-2CF6-4309-950A-D030CDBFC6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D72B50-4E72-4895-AF05-30064CCEF931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D72B50-4E72-4895-AF05-30064CCEF931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D72B50-4E72-4895-AF05-30064CCEF931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D72B50-4E72-4895-AF05-30064CCEF931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799C4DFE-EDBC-48CF-9761-32526F911DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799C4DFE-EDBC-48CF-9761-32526F911DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799C4DFE-EDBC-48CF-9761-32526F911DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799C4DFE-EDBC-48CF-9761-32526F911DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

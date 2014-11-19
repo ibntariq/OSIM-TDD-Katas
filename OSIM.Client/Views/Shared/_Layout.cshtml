@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+    <body>
+        <div>
+            @Html.ActionLink("List Items", "List", "Item")
+            @Html.ActionLink("Add Items", "Add", "Item")
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+    </body>
+</html>

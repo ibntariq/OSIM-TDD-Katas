@@ -1,0 +1,17 @@
+﻿@model OSIM.Common.Models.Item
+
+@{
+    ViewBag.Title = "Add Item";
+}
+
+<h2>Add Item</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name)
+    @Html.LabelFor(m => m.Quantity)
+    @Html.TextBoxFor(m => m.Quantity)
+    
+    <input type="submit" value="Add"/>
+}

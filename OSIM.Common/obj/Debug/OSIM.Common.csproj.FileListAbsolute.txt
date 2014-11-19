@@ -1,0 +1,5 @@
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Common\bin\Debug\OSIM.Common.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Common\bin\Debug\OSIM.Common.pdb
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Common\obj\Debug\OSIM.Common.csprojResolveAssemblyReference.cache
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Common\obj\Debug\OSIM.Common.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Common\obj\Debug\OSIM.Common.pdb

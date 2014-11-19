@@ -1,0 +1,14 @@
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\OSIM.Services.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\OSIM.Services.pdb
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\OSIM.Common.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\OSIM.Common.pdb
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\obj\Debug\OSIM.Services.csprojResolveAssemblyReference.cache
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\obj\Debug\OSIM.Services.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\obj\Debug\OSIM.Services.pdb
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\Ninject.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\Ninject.xml
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\OSIM.Services.dll.config
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\EntityFramework.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\EntityFramework.xml
+D:\Omer\DevWork\VS2013Projects\OSIM\OSIM.Services\bin\Debug\EntityFramework.SqlServer.xml
